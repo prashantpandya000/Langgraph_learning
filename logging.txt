@@ -1,0 +1,13 @@
+Conversation History:
+Human: hello
+AI: Hello! How can I help you today?
+Human: tell me a small joke
+AI: Why did the scarecrow win an award?
+
+Because he was outstanding in his field!
+Human: give me better one
+AI: Okay, here's another one:
+
+Why don't scientists trust atoms?
+
+Because they make up everything!
